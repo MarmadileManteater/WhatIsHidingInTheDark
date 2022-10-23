@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/unsettling_loop_a.ogg-74d6153b3ecd84a8450c67a9076ed91c.oggstr"
+
+[deps]
+
+source_file="res://unsettling_loop_a.ogg"
+dest_files=[ "res://.import/unsettling_loop_a.ogg-74d6153b3ecd84a8450c67a9076ed91c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

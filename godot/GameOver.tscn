@@ -1,0 +1,53 @@
+[gd_scene format=2]
+
+[node name="YouWin" type="Node2D"]
+
+[node name="Background" type="ColorRect" parent="."]
+margin_right = 531.0
+margin_bottom = 713.0
+color = Color( 0, 0, 0, 1 )
+
+[node name="Score Label" type="RichTextLabel" parent="Background"]
+margin_left = 12.0
+margin_top = 413.0
+margin_right = 282.0
+margin_bottom = 474.0
+rect_scale = Vector2( 1.93493, 2.12891 )
+text = "Amont of Potions Brewed:
+        Times Door Opened:
+			     Seconds Spent:"
+
+[node name="Potions Brewed" type="RichTextLabel" parent="Background"]
+margin_left = 345.0
+margin_top = 413.0
+margin_right = 428.0
+margin_bottom = 428.0
+rect_scale = Vector2( 1.93493, 2.12891 )
+text = "0"
+scroll_active = false
+
+[node name="Doors Opened" type="RichTextLabel" parent="Background"]
+margin_left = 345.0
+margin_top = 446.0
+margin_right = 428.0
+margin_bottom = 461.0
+rect_scale = Vector2( 1.93493, 2.12891 )
+text = "0"
+scroll_active = false
+
+[node name="Time Spent" type="RichTextLabel" parent="Background"]
+margin_left = 346.0
+margin_top = 479.0
+margin_right = 429.0
+margin_bottom = 494.0
+rect_scale = Vector2( 1.93493, 2.12891 )
+text = "0"
+scroll_active = false
+
+[node name="You Win Text" type="RichTextLabel" parent="Background"]
+margin_left = 9.0
+margin_top = 153.0
+margin_right = 279.0
+margin_bottom = 265.0
+rect_scale = Vector2( 1.93493, 2.12891 )
+text = "You were so overwhelmed by the events of this evening that you locked yourself in your room and refused to leave for the rest of the night. Ultimately, it wasn't that big of a deal, but it is kind of a bummer to miss out on such a killer evening."
