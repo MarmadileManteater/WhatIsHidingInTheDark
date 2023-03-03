@@ -12,7 +12,7 @@ This game uses Godot Engine, available under the following license:
 The Godot Engine contains software written by third parties:
 
   FreeType
-    Portions of this software are copyright ©2023 The FreeType Project (www.freetype.org). All rights reserved.
+    Portions of this software are copyright © 1996-2022 The FreeType Project (www.freetype.org). All rights reserved.
 
   ENet
     Copyright (c) 2002-2020 Lee Salzman
