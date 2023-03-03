@@ -11,8 +11,8 @@ config_version=4
 [application]
 
 config/name="Whats Hiding In The Dark - Spooky 2D Jam 2022"
-run/main_scene="res://World.tscn"
-config/icon="res://the-mask.png"
+run/main_scene="res://scenes/World.tscn"
+config/icon="res://images/the-mask.png"
 config/windows_native_icon="res://the-mask.ico"
 
 [display]

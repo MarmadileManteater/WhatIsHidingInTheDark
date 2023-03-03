@@ -12,3 +12,7 @@ This is my submission to Spooky 2D Jam '22. The jam's theme is "What's hiding in
 -------
 
 [Play on itch.io &raquo;](https://marmadilemanteater.itch.io/what-is-hiding-in-the-dark)
+
+-------
+
+This game is made with Godot which is [licensed under the MIT license](https://godotengine.org/license/).
